@@ -16,6 +16,7 @@ namespace AutomapperPrototype
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AutomappingConfig.Configure();
+            AutofacConfig.Configure();
         }
     }
 }

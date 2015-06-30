@@ -39,3 +39,7 @@ C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutomapperPrototype.ViewM
 C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.pdb
 C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.xml
 C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.Net4.pdb
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\Autofac.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\Autofac.Integration.WebApi.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\Autofac.xml
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\Autofac.Integration.WebApi.xml

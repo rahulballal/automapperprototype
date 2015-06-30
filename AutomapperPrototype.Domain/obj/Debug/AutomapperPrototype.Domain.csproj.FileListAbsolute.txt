@@ -2,3 +2,4 @@ C:\scratch\AutomapperPrototype\AutomapperPrototype.Domain\bin\Debug\AutomapperPr
 C:\scratch\AutomapperPrototype\AutomapperPrototype.Domain\bin\Debug\AutomapperPrototype.Domain.pdb
 C:\scratch\AutomapperPrototype\AutomapperPrototype.Domain\obj\Debug\AutomapperPrototype.Domain.dll
 C:\scratch\AutomapperPrototype\AutomapperPrototype.Domain\obj\Debug\AutomapperPrototype.Domain.pdb
+C:\scratch\AutomapperPrototype\AutomapperPrototype.Domain\obj\Debug\AutomapperPrototype.Domain.csprojResolveAssemblyReference.cache

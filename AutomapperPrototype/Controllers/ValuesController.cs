@@ -8,7 +8,16 @@ namespace AutomapperPrototype.Controllers
 {
     public class ValuesController : ApiController
     {
+        // Can mock the mapping now
+        private readonly IMappingEngine _mappingEngine;
+
+        public ValuesController(IMappingEngine mappingEngine)
+        {
+            _mappingEngine = mappingEngine;
+        }
+
         // GET api/values
+        // using the static mapper method
         public IEnumerable<PersonViewModel> Get()
         {
             var personDom = new Person
@@ -32,9 +41,19 @@ namespace AutomapperPrototype.Controllers
         }
 
         // GET api/values/5
-        public string Get(int id)
+        //using the injected mapper
+        public PersonViewModel Get(int id)
         {
-            return "value";
+            var personDom = new Person
+            {
+                Age = (decimal)30.00,
+                FirstName = "Rahul",
+                LastName = "Ballal",
+                Id = 10
+            };
+
+
+            return _mappingEngine.Map<PersonViewModel>(personDom);
         }
 
         // POST api/values
