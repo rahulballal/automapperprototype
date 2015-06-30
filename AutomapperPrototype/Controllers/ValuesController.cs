@@ -19,10 +19,15 @@ namespace AutomapperPrototype.Controllers
                 Id = 10
             };
 
+            // basic mapping
             var personVm = Mapper.Map<PersonViewModel>(personDom);
-            // reverse mapping ?
+            
+            // reverse mapping 
             var pdom2 = Mapper.Map<Person>(personVm);
 
+            // using custom mapping
+            var plistvm = Mapper.Map<PersonListViewModel>(personDom);
+            
             return new[] {personVm};
         }
 
