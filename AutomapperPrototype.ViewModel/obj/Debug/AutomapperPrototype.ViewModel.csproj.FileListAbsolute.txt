@@ -1,0 +1,5 @@
+C:\scratch\AutomapperPrototype\AutomapperPrototype.ViewModel\bin\Debug\AutomapperPrototype.ViewModel.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype.ViewModel\bin\Debug\AutomapperPrototype.ViewModel.pdb
+C:\scratch\AutomapperPrototype\AutomapperPrototype.ViewModel\obj\Debug\AutomapperPrototype.ViewModel.csprojResolveAssemblyReference.cache
+C:\scratch\AutomapperPrototype\AutomapperPrototype.ViewModel\obj\Debug\AutomapperPrototype.ViewModel.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype.ViewModel\obj\Debug\AutomapperPrototype.ViewModel.pdb
