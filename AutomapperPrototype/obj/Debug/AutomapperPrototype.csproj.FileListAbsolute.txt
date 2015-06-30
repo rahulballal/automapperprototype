@@ -30,3 +30,12 @@ C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\Antlr3.Runtime.pdb
 C:\scratch\AutomapperPrototype\AutomapperPrototype\obj\Debug\AutomapperPrototype.csprojResolveAssemblyReference.cache
 C:\scratch\AutomapperPrototype\AutomapperPrototype\obj\Debug\AutomapperPrototype.dll
 C:\scratch\AutomapperPrototype\AutomapperPrototype\obj\Debug\AutomapperPrototype.pdb
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.Net4.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutomapperPrototype.Domain.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutomapperPrototype.ViewModel.dll
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutomapperPrototype.Domain.pdb
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutomapperPrototype.ViewModel.pdb
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.pdb
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.xml
+C:\scratch\AutomapperPrototype\AutomapperPrototype\bin\AutoMapper.Net4.pdb
